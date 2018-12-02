@@ -1,0 +1,26 @@
+{
+  "name": "umi-dependencies-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "umi dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoKam/umi-dependencies-test.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/NicoKam/umi-dependencies-test/issues"
+  },
+  "homepage": "https://github.com/NicoKam/umi-dependencies-test#readme",
+  "devDependencies": {
+    "umi": "^2.2.7",
+    "umi-plugin-react": "^1.2.3"
+  },
+  "dependencies": {
+    "umi-style-dependencies-test": "^1.0.0"
+  }
+}
